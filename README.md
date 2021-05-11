@@ -4,7 +4,7 @@
 
 Senior year student of Computer Science at Pontifical Catholic University of Rio de Janeiro, having worked as a Teaching Assistant of System Software, that looks software at a low level of abstraction.
 
-Partial time TI Consultant in a public security project of Genesis Instituite, a start-up incubator, at PUC-Rio. Tutor in Computer Science / Programming in the "free-time". 
+Partial time IT Consultant in a public security project of Genesis Instituite, a start-up incubator, at PUC-Rio. Tutor in Computer Science / Programming in the "free-time". 
 
 ## Contact
 - :mailbox_with_mail: &nbsp;&nbsp;&nbsp;`brunommarinho@hotmail.com`
