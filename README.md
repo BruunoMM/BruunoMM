@@ -1,6 +1,6 @@
 ## :octocat: About me
 
-3~4 years of experience in Software Engineering focused in the mobile field, mainly in the iOS/tvOS platform. Solid understanding of AVFoundation, Unit Testing, HLS protocol video streaming, Swift, Objective-C, Kotlin, C, IA-65 Assembly and good software practices.
+4+ years of experience in Software Engineering focused in the mobile field, mainly in the iOS/tvOS platform. Solid understanding of AVFoundation, Unit Testing, HLS protocol video streaming, Swift, Objective-C, Kotlin, C, IA-65 Assembly and good software practices.
 
 Senior year student of Computer Science at Pontifical Catholic University of Rio de Janeiro, having worked as a Teaching Assistant of System Software, that looks software at a low level of abstraction.
 
